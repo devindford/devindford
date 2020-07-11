@@ -5,7 +5,10 @@
 -----
 ## Portfolio:
 
-[![Website Screenshot](https://i.imgur.com/cmQCcHU.png)](https://devinford.dev)
+<a href="https://devinford.dev">
+  <img src="https://i.imgur.com/cmQCcHU.png" alt="Portfolio Preview Image" height="450" width="800">
+</a> 
+
 [DevinFord.dev](https://devinford.dev)
 
 -----
