@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello all, I'm Devin and I'm becoming a self taught developer & changing careers at 30. I tweet about how I'm doing it while providing the resources I've used along the way to help others.
+
+----------
+## Socials: <br>
+![Twitter Follow](https://img.shields.io/twitter/follow/devindford?label=Follow%20me%20on%20Twitter%21&style=social) ![GitHub followers](https://img.shields.io/github/followers/devindford?label=Follow%20my%20GitHub&style=social) [![Devin Ford 💻🚀's DEV Profile](https://img.shields.io/badge/Blog%20on%20Dev.to-Follow-lightgrey?style=social&logo=dev.to)](https://dev.to/devindford) [![Devin Ford CodePen](https://img.shields.io/badge/CodePen-Follow-lightgrey?style=social&logo=CodePen)](https://codepen.io/devindford)
+    
 
 <!--
 **devindford/devindford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
