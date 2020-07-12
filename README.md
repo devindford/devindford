@@ -1,7 +1,6 @@
 # ![Header Banner: Devin Ford](https://i.imgur.com/6s3fSii.png)
-
-
- Hello all, I'm Devin and I'm becoming a self taught developer & changing careers at 30. I tweet about how I'm doing it while providing the resources I've used along the way to help others. <br>
+Hello all, I'm Devin and I'm becoming a self taught developer & changing careers at 30. I tweet about how I'm doing it while providing the resources I've used along the way to help others. Here you will find links to my socials, some of my work, and all the code that goes with it!
+<br>
 -----
 
 <p>
