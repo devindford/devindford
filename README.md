@@ -1,7 +1,11 @@
 # ![Header Banner: Devin Ford](https://i.imgur.com/6s3fSii.png)
-Hello all, I'm Devin and I'm becoming a self taught developer & changing careers at 30. I tweet about how I'm doing it while providing the resources I've used along the way to help others. Here you will find links to my socials, some of my work, and all the code that goes with it!
-<br>
+
+**Hello all, I'm Devin and I'm becoming a self taught developer & changing careers at 30. I tweet about how I'm doing it while providing the resources I've used along the way to help others. Here you will find links to my socials, some of my work, and all the code that goes with it!**
+
+
 -----
+
+<br>
 
 <p>
   <a href="https:/twitter.com/devindford"><img width="500" align='left' src="https://i.imgur.com/0lCN0e1.png"></a>
@@ -26,9 +30,11 @@ Hello all, I'm Devin and I'm becoming a self taught developer & changing careers
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=LinkedIn" alt="linkedin Link with logo">
 </a> 
 </p>
+
 <br>
 
 -----
+<br>
 
 ## Some of My Work
 <p align='left'>
