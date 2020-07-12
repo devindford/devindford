@@ -41,8 +41,12 @@ Hello all, I'm Devin and I'm becoming a self taught developer & changing careers
 </a> 
   </p>
   <p align="left"> 
+  <a href="https://devinford.dev">
   <img src="https://i.imgur.com/DjI6jiq.png"> 
+  </a>
+  <a href="https://arsensgym.netlify.app/">
     <img src="https://i.imgur.com/8edhbhy.png" align="right"> 
+  </a>
   </p>
   
 
