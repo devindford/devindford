@@ -52,10 +52,9 @@
   <img src="https://i.imgur.com/bTdVKCt.png"> 
   </a>
   <a href="https://arsensgym.netlify.app/">
-    <img src="https://i.imgur.com/v871Mt7.png" > 
+    <img src="https://i.imgur.com/v871Mt7.png" align="right"> 
   </a>
   </p>
-
 
 ---
 
