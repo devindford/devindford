@@ -34,16 +34,16 @@
 ## Some of My Work
 <p align='left'>
 <a href="https://devinford.dev">
-  <img src="https://i.imgur.com/cmQCcHU.png" alt="Portfolio Preview Image" height="300" width="450">
+  <img src="https://i.imgur.com/cmQCcHU.png" alt="Portfolio Preview Image" height="200" width="350">
 </a>  
   
 <a href="https://arsensgym.netlify.app/">
-  <img src="https://i.imgur.com/i1fTnWx.png" alt="Portfolio Preview Image" height="300" width="450" align="right">
+  <img src="https://i.imgur.com/i1fTnWx.png" alt="Portfolio Preview Image" height="200" width="350" align="right">
 </a> 
   </p>
-  <p align="left"> &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; 
-  <img src="https://i.imgur.com/DjI6jiq.png"> &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; 
-    <img src="https://i.imgur.com/8edhbhy.png"> 
+  <p align="left"> 
+  <img src="https://i.imgur.com/DjI6jiq.png"> 
+    <img src="https://i.imgur.com/8edhbhy.png" align="right"> 
   </p>
   
 
