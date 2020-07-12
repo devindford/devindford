@@ -2,15 +2,14 @@
 
 **Hello all, I'm Devin and I'm becoming a self taught developer & changing careers at 30. I tweet about how I'm doing it while providing the resources I've used along the way to help others. Here you will find links to my socials, some of my work, and all the code that goes with it!**
 
-
------
+---
 
 <br>
 
 <p>
   <a href="https:/twitter.com/devindford"><img width="500" align='left' src="https://i.imgur.com/0lCN0e1.png"></a>
 </p>
-&nbsp;  
+&nbsp;
 
 <p align='right'>
 <a href="https://twitter.com/intent/follow?screen_name=devindford">
@@ -20,7 +19,7 @@
   <img src="https://img.shields.io/badge/CodePen-Follow-lightgrey?style=social&logo=CodePen" alt="codepen Link with logo">
 </a> 
 </p>  
-&nbsp;  
+&nbsp;
 
 <p align='right'>
   <a href="https://dev.to/devindford">
@@ -33,10 +32,12 @@
 
 <br>
 
------
+---
+
 <br>
 
 ## Some of My Work
+
 <p align='left'>
 <a href="https://devinford.dev">
   <img src="https://i.imgur.com/cmQCcHU.png" alt="Portfolio Preview Image" height="200" width="350">
@@ -48,21 +49,19 @@
   </p>
   <p align="left"> 
   <a href="https://devinford.dev">
-  <img src="https://i.imgur.com/DjI6jiq.png"> 
+  <img src="https://i.imgur.com/bTdVKCt.png"> 
   </a>
   <a href="https://arsensgym.netlify.app/">
-    <img src="https://i.imgur.com/8edhbhy.png" align="right"> 
+    <img src="https://i.imgur.com/v871Mt7.png" > 
   </a>
   </p>
-  
 
 
------
+---
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=devindford.visitor-badge">
 <p/>
-
 
 <!--
 **devindford/devindford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
