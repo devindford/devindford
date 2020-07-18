@@ -55,13 +55,13 @@
     <img src="https://i.imgur.com/v871Mt7.png" align="right"> 
   </a>
   </p>
-
+<!--
 ---
 
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=devindford.visitor-badge">
 <p/>
-
+-->
 <!--
 **devindford/devindford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
