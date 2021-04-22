@@ -49,7 +49,6 @@
 </a> 
 
 <br>
----
 
    <p align="left"> 
   <a href="https://devtorising.com">
