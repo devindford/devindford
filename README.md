@@ -36,25 +36,32 @@
 
 <br>
 
-## Some of My Work
+## Some of My Favorite Work
 
-<p align='left'>
-<a href="https://devinford.dev">
-  <img src="https://i.imgur.com/cmQCcHU.png" alt="Portfolio Preview Image" height="200" width="350">
-</a>  
+
+<a href="https://devtorisiing.com">
+  <img src="https://imgur.com/y3TEFrv.png" alt="Devtorising Preview Image" height="350" width="500">
+</a>
+ 
   
-<a href="https://arsensgym.netlify.app/">
-  <img src="https://i.imgur.com/i1fTnWx.png" alt="Portfolio Preview Image" height="200" width="350" align="right">
+<a href="https://chat.devinford.dev/">
+  <img src="https://imgur.com/oCDMtNs.png" alt="Portfolio Preview Image" height="350" width="250" align="right">
 </a> 
-  </p>
-  <p align="left"> 
-  <a href="https://devinford.dev">
-  <img src="https://i.imgur.com/bTdVKCt.png"> 
+
+<br>
+---
+
+   <p align="left"> 
+  <a href="https://devtorising.com">
+  dev.to rising
   </a>
-  <a href="https://arsensgym.netlify.app/">
-    <img src="https://i.imgur.com/v871Mt7.png" align="right"> 
+  </p>
+  <p align="right">
+  <a href="https://chat.devinford.dev/">
+    Real time chat application
   </a>
   </p>
+
 <!--
 ---
 
