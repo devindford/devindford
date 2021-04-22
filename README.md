@@ -39,7 +39,7 @@
 ## Some of My Favorite Work
 
 
-<a href="https://devtorisiing.com">
+<a href="https://devtorising.com">
   <img src="https://imgur.com/y3TEFrv.png" alt="Devtorising Preview Image" height="350" width="500">
 </a>
  
