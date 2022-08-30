@@ -1,6 +1,6 @@
 # ![Header Banner: Devin Ford](https://i.imgur.com/6s3fSii.png)
 
-**Hello all, I'm Devin and I'm a community taught developer, soon to be dad and changed careers from public safety to development at 31. I tweet about how I'm doing it while providing the resources I've used along the way to help others. Here you will find links to my socials, some of my work, and all the code that goes along with it!**
+**Hello all, I'm Devin and I'm a community taught developer, a proud girl dad and changed careers from public safety to software engineering at 31. I tweet about how I'm doing it while providing the resources I've used along the way to help others. Here you will find links to my socials, some of my work, and all the code that goes along with it!**
 
 ---
 
